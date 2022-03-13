@@ -2,7 +2,7 @@
 
 | Onboarding Page     | Home Page      |  
 | ------------- | -------------    | 
-| [![Screenshot-1647129539.png](https://i.postimg.cc/CKFpy90v/Screenshot-1647129539.png)](https://postimg.cc/18YjwCf6) | [![Screenshot-1646793712.png](https://i.postimg.cc/L8dkByH0/Screenshot-1646793712.png)](https://postimg.cc/RNRnvLJc)  |
+| [![Screenshot-1647129539.png](https://i.postimg.cc/CKFpy90v/Screenshot-1647129539.png)](https://postimg.cc/18YjwCf6) | [![Screenshot-1647129521.png](https://i.postimg.cc/rmD8b7GB/Screenshot-1647129521.png)](https://postimg.cc/XG0SBHzL)  |
 
 A new Flutter project.
 
